@@ -8,9 +8,9 @@ RPubs Page: https://rpubs.com/fblpalmeira/cats_uk
 
 - [Database](https://github.com/rfordatascience/tidytuesday/blob/master/data/2023/2023-01-31/readme.md)
 
-- [Script `.R`](https://github.com/fblpalmeira/cats_uk/blob/main/cats_uk.R)
+- [Script `.R`](https://github.com/fblpalmeira/cats_uk/blob/main/data/cats_uk.R)
 
-<img src="https://github.com/fblpalmeira/cats_uk/blob/main/cats_uk.png"> 
+<img src="https://github.com/fblpalmeira/cats_uk/blob/main/data/cats_uk.png"> 
 
 ## Pet Cats UK MoveVis
 
