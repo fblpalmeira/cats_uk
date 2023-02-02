@@ -1,6 +1,6 @@
 # cats_uk
 
-Pet Cats UK Interactive Map: Creating an interactive map for users to explore and learn more about the movimentation of domestic cats in Falmouth, UK.
+Pet Cats UK Interactive Map: Creating an interactive map for users to explore and learn more about the movimentation and home range area of domestic cats in Falmouth, UK.
 
 - [Database](https://github.com/rfordatascience/tidytuesday/blob/master/data/2023/2023-01-31/readme.md)
 
@@ -8,7 +8,11 @@ Pet Cats UK Interactive Map: Creating an interactive map for users to explore an
 
 <img src="https://github.com/fblpalmeira/cats_uk/blob/main/cats_uk.png"> 
 
-References:
+# References:
+
+Calenge, C. 2006. [The package adehabitat for the R software: a tool for the analysis of space and habitat use by animals.](https://doi.org/10.1016/j.ecolmodel.2006.03.017) Ecological Modelling, 197, 516-519
+
+Joe Cheng, Bhaskar Karambelkar and Yihui Xie. 2022. [leaflet: Create Interactive Web Maps with the JavaScript 'Leaflet' Library.](https://CRAN.R-project.org/package=leaflet) R package version 2.1.1. 
 
 McDonald JL, Cole H (2020) Data from: The small home ranges and large local ecological impacts of pet cats [United Kingdom]. Movebank Data Repository. doi:10.5441/001/1.pf315732
 
