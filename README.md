@@ -6,7 +6,7 @@
 
 - [Script - `.R`]()
 
-https://github.com/fblpalmeira/cats_uk/blob/main/cats_uk.png
+<img src="https://github.com/fblpalmeira/cats_uk/blob/main/cats_uk.png"> 
 
 References:
 
