@@ -1,6 +1,6 @@
 # #TidyTuesday | Week 5 | 2023-01-31 | Pet Cats UK 
 
-Pet Cats UK Interactive Map: Creating an interactive map for users to explore and learn more about the movement and home range area of domestic cats in Falmouth, UK.
+Pet Cats UK Interactive Map: Creating an interactive map for users to explore and learn more about the movement and home range of domestic cats in Falmouth, UK.
 
 RPubs Page: https://rpubs.com/fblpalmeira/cats_uk
 
