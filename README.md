@@ -6,7 +6,7 @@ RPubs Page: https://rpubs.com/fblpalmeira/cats_uk
 
 - [Database](https://github.com/rfordatascience/tidytuesday/blob/master/data/2023/2023-01-31/readme.md)
 
-- [Script - `.R`]()
+- [Script `.R`]()
 
 <img src="https://github.com/fblpalmeira/cats_uk/blob/main/cats_uk.png"> 
 
