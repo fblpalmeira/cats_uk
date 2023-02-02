@@ -3,10 +3,10 @@ cats_uk_reference <- readr::read_csv('https://raw.githubusercontent.com/rfordata
 View(cats_uk)
 View(cats_uk_reference)
 
+library(dplyr)
 cats_uk_join<-full_join(cats_uk,cats_uk_reference,by="tag_id")
 View(cats_uk_join)
 
-library(dplyr)
 y4 <- filter(cats_uk_join, tag_id=="Roger-Tag" |
               tag_id=="Morpheus-Tag" |
               tag_id=="Nettle-Tag" |
