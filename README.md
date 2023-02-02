@@ -28,3 +28,5 @@ Joe Cheng, Bhaskar Karambelkar and Yihui Xie. 2022. [leaflet: Create Interactive
 McDonald JL, Cole H. 2020. [Data from: The small home ranges and large local ecological impacts of pet cats [United Kingdom]](https://doi:10.5441/001/1.pf315732). Movebank Data Repository. doi:10.5441/001/1.pf315732
 
 Kays R, Dunn RR, Parsons AW, Mcdonald B, Perkins T, Powers S, Shell L, McDonald JL, Cole H, Kikillus H, Woods L, Tindle H, Roetman P. 2020. [The small home ranges and large local ecological impacts of pet cats](https://doi:10.1111/acv.12563). Animal Conservation. doi:10.1111/acv.12563
+
+Schwalb-Willmann, J. 2020.[Package 'moveVis': Movement Data Visualization](https://cran.r-project.org/web/packages/moveVis/index.html) .
