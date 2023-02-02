@@ -2,7 +2,7 @@
 
 ## Interactive Map 
 
-An interactive map for users to explore and learn more about the movement and home range of domestic cats in Falmouth, UK.
+An interactive map for users to explore and learn more about the movement and home range of pet cats in Falmouth, UK.
 
 - [Database](https://github.com/rfordatascience/tidytuesday/blob/master/data/2023/2023-01-31/readme.md)
 
@@ -13,7 +13,9 @@ RPubs Page: https://rpubs.com/fblpalmeira/cats_uk
 
 ## Animation
 
-An animation showing the movement of seven cats in Falmouth, UK.
+An animation showing the movement of seven pet cats in Falmouth, UK.
+
+- [Database](https://github.com/rfordatascience/tidytuesday/blob/master/data/2023/2023-01-31/readme.md)
 
 - [Script `.R`](https://github.com/fblpalmeira/cats_uk/blob/main/data/cats_uk_movevis.R)
 
