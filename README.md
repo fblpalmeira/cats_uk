@@ -4,15 +4,14 @@
 
 An interactive map for users to explore and learn more about the movement and home range of domestic cats in Falmouth, UK.
 
-RPubs Page: https://rpubs.com/fblpalmeira/cats_uk
-
 - [Database](https://github.com/rfordatascience/tidytuesday/blob/master/data/2023/2023-01-31/readme.md)
 
 - [Script `.R`](https://github.com/fblpalmeira/cats_uk/blob/main/data/cats_uk.R)
 
 <img src="https://github.com/fblpalmeira/cats_uk/blob/main/data/cats_uk.png"> 
+RPubs Page: https://rpubs.com/fblpalmeira/cats_uk
 
-## Animation map
+## Animation
 
 An animation showing the movement of cats in Falmouth, UK.
 
