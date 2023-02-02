@@ -13,7 +13,7 @@ RPubs Page: https://rpubs.com/fblpalmeira/cats_uk
 
 - [Script `.R`]()
 
-<img src=""> 
+<img src="https://github.com/fblpalmeira/cats_uk/blob/main/cats_uk3.gif"> 
 
 # References:
 
