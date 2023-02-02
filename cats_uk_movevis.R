@@ -62,4 +62,4 @@ frames[[30]] # preview one of the frames, e.g. the 10th frame
 
 #suggest_formats()
 
-animate_frames(frames, out_file = "cats_uk_movevis3.gif", width = 800, height = 550, res = 95)
+animate_frames(frames, out_file = "cats_uk_movevis.gif", width = 800, height = 550, res = 95)
