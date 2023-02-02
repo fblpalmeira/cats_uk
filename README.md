@@ -11,9 +11,9 @@ RPubs Page: https://rpubs.com/fblpalmeira/cats_uk
 <img src="https://github.com/fblpalmeira/cats_uk/blob/main/cats_uk.png"> 
 
 
-- [Script `.R`](https://github.com/fblpalmeira/cats_uk/blob/main/cats_uk_movevis.R)
+- [Script `.R`](https://github.com/fblpalmeira/cats_uk/blob/main/data/cats_uk_movevis.R)
 
-<img src="https://github.com/fblpalmeira/cats_uk/blob/main/cats_uk3.gif"> 
+<img src="https://github.com/fblpalmeira/cats_uk/blob/main/data/cats_uk_movevis.gif"> 
 
 # References:
 
