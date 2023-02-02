@@ -1,6 +1,6 @@
 # cats_uk
 
-Pet Cats UK Interactive Map: Creating an interactive map for users to explore and learn more about the movimentation and home range area of domestic cats in Falmouth, UK.
+Pet Cats UK Interactive Map: Creating an interactive map for users to explore and learn more about the moviment and home range area of domestic cats in Falmouth, UK.
 
 - [Database](https://github.com/rfordatascience/tidytuesday/blob/master/data/2023/2023-01-31/readme.md)
 
