@@ -46,7 +46,7 @@ get_maptypes()
 
 frames <- frames_spatial(am, path_legend_title = c("Cat name"), path_colours = NA,
                          map_service = "osm", map_type ="topographic", map_res=1) %>% 
-  
+# register at http://www.mapbox.com to get a free mapbox token  
   add_labels(x = "Longitude", y = "Latitude", 
              title="Pet Cats UK" , 
              subtitle="Movebank Data Repository") %>% # add some customizations, such as axis labels
