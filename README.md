@@ -9,7 +9,7 @@ An interactive map for users to explore and learn more about the movement and ho
 - [Script `.R`](https://github.com/fblpalmeira/cats_uk/blob/main/data/cats_uk.R)
 
 <img src="https://github.com/fblpalmeira/cats_uk/blob/main/data/cats_uk.png"> 
-RPubs Page: https://rpubs.com/fblpalmeira/cats_uk
+Interative map: https://rpubs.com/fblpalmeira/cats_uk
 
 ## Animation
 
